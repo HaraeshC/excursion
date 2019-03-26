@@ -1,0 +1,40 @@
+*{
+  font-family: Verdana;
+  background-color: black;
+  text-align: center;
+  font-weight: normal;
+  color:white
+  }
+
+.header {
+        font-size: 50px;
+
+        }
+
+.link{
+      color: Aquamarine;
+      font-size: 16px;
+      }
+
+.video{
+        margin: auto;
+        display: block;
+      }
+
+.subheader{
+          font-weight: 300;
+          font-size: 42px;
+
+          }
+
+.sub-text{
+          font-size: 21px;
+          color: gray;
+
+          }
+
+.excursion{
+          font-size: 16px;
+          text-align: right;
+          color: gray;
+          }
